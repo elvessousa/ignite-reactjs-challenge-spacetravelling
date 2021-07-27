@@ -11,7 +11,13 @@
   time {
     display: flex;
     align-items: center;
+    line-height: 1.5rem;
     gap: 0.5rem;
     color: var(--info);
   }
+}
+
+.preview {
+  text-align: center;
+  margin: 2rem auto;
 }

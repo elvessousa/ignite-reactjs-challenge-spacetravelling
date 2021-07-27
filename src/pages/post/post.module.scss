@@ -25,3 +25,21 @@
     color: var(--body);
   }
 }
+
+.otherPosts {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  line-height: 1.5rem;
+  padding: 2rem 0;
+}
+
+.previous {
+  text-align: left;
+  margin-right: auto;
+}
+
+.next {
+  text-align: right;
+  margin-left: auto;
+}
